@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSummary", "TextSummary\TextSummary.csproj", "{8B72D4F0-B447-42D3-B50A-D14C65850E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingStrings", "BuildingStrings\BuildingStrings.csproj", "{CA0F3614-D500-4C30-95F9-643B982FB2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsecutiveNumberTest", "ConsecutiveNumberTest\ConsecutiveNumberTest.csproj", "{71E4AEE7-AB42-446D-9CD4-C078139D3599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateTest", "DuplicateTest\DuplicateTest.csproj", "{29556715-9F12-44B6-8D7E-098C111CE024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeValidation", "TimeValidation\TimeValidation.csproj", "{F7193CA0-CC77-4215-A951-B22D062073CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalCaseConverter", "PascalCaseConverter\PascalCaseConverter.csproj", "{198FBD64-6AC5-43F0-972F-943D88E2E986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCounter", "VowelCounter\VowelCounter.csproj", "{8FDFE354-8DF9-49ED-BABD-8F6BAEDF1EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B72D4F0-B447-42D3-B50A-D14C65850E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B72D4F0-B447-42D3-B50A-D14C65850E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B72D4F0-B447-42D3-B50A-D14C65850E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B72D4F0-B447-42D3-B50A-D14C65850E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0F3614-D500-4C30-95F9-643B982FB2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0F3614-D500-4C30-95F9-643B982FB2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0F3614-D500-4C30-95F9-643B982FB2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0F3614-D500-4C30-95F9-643B982FB2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E4AEE7-AB42-446D-9CD4-C078139D3599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E4AEE7-AB42-446D-9CD4-C078139D3599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E4AEE7-AB42-446D-9CD4-C078139D3599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E4AEE7-AB42-446D-9CD4-C078139D3599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29556715-9F12-44B6-8D7E-098C111CE024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29556715-9F12-44B6-8D7E-098C111CE024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29556715-9F12-44B6-8D7E-098C111CE024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29556715-9F12-44B6-8D7E-098C111CE024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7193CA0-CC77-4215-A951-B22D062073CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7193CA0-CC77-4215-A951-B22D062073CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7193CA0-CC77-4215-A951-B22D062073CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7193CA0-CC77-4215-A951-B22D062073CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198FBD64-6AC5-43F0-972F-943D88E2E986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198FBD64-6AC5-43F0-972F-943D88E2E986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198FBD64-6AC5-43F0-972F-943D88E2E986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198FBD64-6AC5-43F0-972F-943D88E2E986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDFE354-8DF9-49ED-BABD-8F6BAEDF1EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDFE354-8DF9-49ED-BABD-8F6BAEDF1EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDFE354-8DF9-49ED-BABD-8F6BAEDF1EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDFE354-8DF9-49ED-BABD-8F6BAEDF1EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87282D13-1C91-43D5-B116-4EBF366FC7F0}
+	EndGlobalSection
+EndGlobal
